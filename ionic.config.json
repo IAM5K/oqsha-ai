@@ -1,0 +1,7 @@
+{
+  "name": "oqsha-ai",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
