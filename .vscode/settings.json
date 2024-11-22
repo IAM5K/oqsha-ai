@@ -8,5 +8,6 @@
     "oqsha",
     "predeploy",
     "vertexai"
-  ]
+  ],
+  "editor.formatOnSave": true,
 }
